@@ -1,0 +1,26 @@
+@media (max-width: 1023px) {
+  .hero-navy-clip,
+  .hero-mid-accent-clip,
+  .hero-light-accent-clip {
+    clip-path: none;
+  }
+
+  .about-image-clip {
+    clip-path: polygon(8% 0%, 100% 0%, 100% 100%, 0% 100%);
+  }
+
+  .careers-image-clip {
+    clip-path: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .onycon-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .about-image-clip {
+    clip-path: none;
+  }
+}

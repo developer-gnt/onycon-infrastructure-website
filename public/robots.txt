@@ -1,0 +1,5 @@
+# Replace https://www.onycon-placeholder-domain.com with your actual production domain before deploying
+User-agent: *
+Allow: /
+
+Sitemap: https://www.onycon-placeholder-domain.com/sitemap.xml

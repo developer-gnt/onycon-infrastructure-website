@@ -1,0 +1,6 @@
+{
+  "name": "ONYCON Infrastructure",
+  "description": "Official corporate website for ONYCON Infrastructure — delivering integrated engineering, construction, industrial buildings, tunnels, ports, roads, and bridges across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
